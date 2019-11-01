@@ -1,6 +1,8 @@
 ---
 layout: home
 title: How are we today.
+metaTitle: the is we
+metaDesc: alright
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
